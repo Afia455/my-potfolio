@@ -4,12 +4,12 @@ import {Github} from "lucide-react"
 const projects = [
     {
         id : 1,
-        title: "AI Dashboard",
+        title: "Cars Shop",
         description: "A beautiful AI-driven dashboard using python.",
         image: "/projects/AI_project.webp",
         tags: ["python", "Machine Learning", "Data Analysis"],
-        demoURL: "#",
-        githubURL: "https://github.com/Afia455/codealpha_tasks_unemployement_forcasting",
+        demoURL: "https://codealpha-task-cars-prediction.onrender.com/",
+        githubURL: "https://github.com/Afia455/codealpha_task_cars_prediction",
     },
     {
         id : 2,
@@ -17,8 +17,8 @@ const projects = [
         description: "Interactive user interface ecommerce website.",
         image: "/projects/web_project.jpg",
         tags: ["React", "CSS", "TailwindCSS", "Bootstrap CSS"],
-        demoURL: "#",
-        githubURL: "https://github.com/Afia455/codealpha_task_cars_prediction",
+        demoURL: "https://iris-flower-prediction-l9qm.onrender.com/",
+        githubURL: "https://github.com/Afia455/codealpha_task_irisFlower_prediction",
     },
     {
         id : 3,
@@ -26,7 +26,7 @@ const projects = [
         description: "AI dashboard, predict suitable destination.",
         image: "/projects/travel_project.jpeg",
         tags: ["python", "Machine Learning", "EDA", "Data Visualization"],
-        demoURL: "#",
+        demoURL: "https://intelligent-travel-planner.onrender.com/",
         githubURL: "https://github.com/Afia455/Intelligent-Travel-Planner",
     },
 ]
