@@ -13,7 +13,7 @@ const projects = [
     },
     {
         id : 2,
-        title: "Cars Prediction Dashboard",
+        title: "Iris Prediction Dashboard",
         description: "Interactive user interface ecommerce website.",
         image: "/projects/web_project.jpg",
         tags: ["React", "CSS", "TailwindCSS", "Bootstrap CSS"],
